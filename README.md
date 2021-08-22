@@ -8,7 +8,7 @@ Don't worry.. Artificial Intelligence is there for you..
   <img alt="home" src="https://github.com/tripathiGithub/Smart_Yoga_Assistant/blob/main/home.png" width="49%"> <img alt="menu" src="https://github.com/tripathiGithub/Smart_Yoga_Assistant/blob/main/menu.png" width="49%">
 </p>
 
-Couple of months back I with my team started working on a yoga app to help everyone in doing yoga correctly with the help of their personal laptops and almost no cost. 
+Couple of months back I with my team started working on a yoga app to help everyone in doing yoga correctly with the help of their personal laptops and at almost no cost. 
 
 check out the demo video- https://github.com/tripathiGithub/Smart_Yoga_Assistant/blob/main/Post.mp4?raw=true
 
