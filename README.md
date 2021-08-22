@@ -9,6 +9,7 @@ Couple of months back my team :Akshay Dharmik , Suraj Shivakumar and I. started 
 
 check out the demo video- https://github.com/tripathiGithub/Smart_Yoga_Assistant/blob/main/Post.mp4?raw=true
 
+![yoga](https://github.com/tripathiGithub/Smart_Yoga_Assistant/blob/main/yoga.gif)
 
 Our "Smart Yoga Assistant" is able to detect poses and correct them in real time using Machine Learning techniques.
 
