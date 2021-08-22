@@ -7,7 +7,7 @@ Don't worry.. Artificial Intelligence is there for you..
 
 Couple of months back my team :Akshay Dharmik , Suraj Shivakumar and I. started working on this yoga app to help everyone in doing yoga correctly with the help of their personal laptops and almost no cost. 
 
-here's the demo - https://github.com/tripathiGithub/Smart_Yoga_Assistant/blob/main/Post.mp4?raw=true
+check out the demo video- https://github.com/tripathiGithub/Smart_Yoga_Assistant/blob/main/Post.mp4?raw=true
 
 
 Our "Smart Yoga Assistant" is able to detect poses and correct them in real time using Machine Learning techniques.
